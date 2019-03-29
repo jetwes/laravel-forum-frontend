@@ -1,5 +1,5 @@
 {
-    "name": "riari/laravel-forum-frontend",
+    "name": "jetwes/laravel-forum-frontend",
     "description": "A frontend for riari/laravel-forum providing views written with Bootstrap 3",
     "keywords": ["laravel", "laravel-4", "laravel-5", "forum", "discuss", "frontend"],
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "riari/laravel-forum": "3.0 - 4.1"
+        "jetwes/laravel-forum": "dev-master"
     },
     "autoload": {
         "psr-4": {
